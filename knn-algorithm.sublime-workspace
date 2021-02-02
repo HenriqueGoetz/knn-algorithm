@@ -580,6 +580,9 @@
 	],
 	"file_history":
 	[
+		"/home/henrique/workspace/knn-algorithm/knn.py",
+		"/home/henrique/workspace/knn-algorithm/Dados_Normalizados/cancer_test.csv",
+		"/home/henrique/workspace/knn-algorithm/README.md",
 		"/home/henrique/app/cifras-viewer/README.md",
 		"/home/henrique/app/cifras-viewer/src/views/AllMusics/index.js",
 		"/home/henrique/app/cifras-viewer/app.json",
@@ -704,14 +707,11 @@
 		"/home/henrique/Desktop/compiladores/.gitignore",
 		"/home/henrique/Desktop/compiladores/etapa3/scanner.l",
 		"/home/henrique/Desktop/compiladores/etapa3/hash.h",
-		"/home/henrique/Desktop/compiladores/etapa3/hash.c",
-		"/home/henrique/Desktop/compiladores/etapa3/Makefile.save",
-		"/home/henrique/Desktop/compiladores/etapa3/etapa2.tgz",
-		"/home/henrique/Local Sites/fishing-log/app/bedrock/web/app/themes/fishing-log/endpoints/fishing.php"
+		"/home/henrique/Desktop/compiladores/etapa3/hash.c"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -725,6 +725,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"python"
 		],
 		"highlight": true,
 		"in_selection": false,

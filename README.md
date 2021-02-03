@@ -8,5 +8,5 @@
 <ul>
 	<li>k_value -> valor do hiperparâmetro K</li>
 	<li>training_file -> caminho para o arquivo de treino</li>
-	<li>training_file -> caminho para o arquivo de teste</li>
+	<li>test_file -> caminho para o arquivo de teste</li>
 </ul>

@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"k",
+				"k_value"
+			],
+			[
+				"num",
+				"number_of_instances"
+			],
+			[
+				"number",
+				"number_of_correct_dedutions"
+			],
+			[
+				"is",
+				"instace"
+			],
+			[
+				"nu",
+				"number_of_instances"
+			],
+			[
+				"knn",
+				"knn_instances"
+			],
+			[
 				"bor",
 				"borderRadius"
 			],
@@ -490,30 +514,6 @@
 			[
 				"fo",
 				"font-weight"
-			],
-			[
-				"backgr",
-				"background-color"
-			],
-			[
-				"mari",
-				"margin-left"
-			],
-			[
-				"text-",
-				"text-align"
-			],
-			[
-				"min-",
-				"min-height"
-			],
-			[
-				"max-",
-				"max-width"
-			],
-			[
-				"paddin",
-				"padding-left"
 			]
 		]
 	},
@@ -711,7 +711,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -725,6 +725,23 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"row",
+			"instance",
+			"Row",
+			"row",
+			"compare_instances",
+			"number_of_instances",
+			"a",
+			"number_of",
+			"number_of_instances",
+			"number_of",
+			"number",
+			"res",
+			"x",
+			"nearst",
+			"nearset",
+			"add_nearset_instance",
+			"nearset",
 			"python"
 		],
 		"highlight": true,
